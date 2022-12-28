@@ -1,0 +1,13 @@
+## Title: Guild on Target
+## Author: Sophie Kuehn
+## Version: 1.0
+## Description: Displays shared guild name of targeted players.
+## APIVersion: 101034 101035
+##
+## This Add-on is not created by, affiliated with or sponsored by ZeniMax Media Inc. or its affiliates. The Elder Scrolls® and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the United States and/or other countries. All rights reserved.
+##
+## You can read the full terms at https://account.elderscrollsonline.com/add-on-terms
+
+GuildOnTarget.lua
+GuildOnTarget.xml
+

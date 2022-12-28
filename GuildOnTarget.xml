@@ -1,0 +1,9 @@
+<GuiXml>
+    <Controls>
+        <TopLevelControl name="GuildOnTarget">
+            <Dimensions x="10" y="10" />
+            <Anchor point="LEFT" />            
+        </TopLevelControl>
+    </Controls>
+</GuiXml>
+
