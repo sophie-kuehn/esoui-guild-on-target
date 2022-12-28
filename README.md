@@ -2,7 +2,7 @@
 
 This AddOn will show a players shared (with you) guild name when targeted.
 
-![example](example.jpg)
+![example](example.png)
 
 ## Acknowledgment
 
