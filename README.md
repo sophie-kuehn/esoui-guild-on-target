@@ -2,6 +2,8 @@
 
 This AddOn will show a players shared (with you) guild name when targeted.
 
+![example](example.jpg)
+
 ## Acknowledgment
 
 I borrowed code from [https://www.esoui.com/downloads/info1189-MoreTargetInformation.html](https://www.esoui.com/downloads/info1189-MoreTargetInformation.html)
